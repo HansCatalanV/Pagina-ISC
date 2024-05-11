@@ -1,2 +1,2 @@
-# Pagina-ISC
-proyecto de pagina web
+# ISC-pagina
+pagina web del proyecto
